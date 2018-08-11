@@ -3,6 +3,8 @@ __A  precise and simple guide for archlinux administration__
 
 ### Package administration
 
+### The amazing world of AUR
+
 ### How to downgrade a package
 
 * **How to edit ignore packages**
