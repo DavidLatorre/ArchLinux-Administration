@@ -3,6 +3,8 @@ __A  precise and simple guide for archlinux administration__
 
 ### Package administration
 
+* **Synchronize de databases
+
 ### The amazing world of AUR
 
 ### How to downgrade a package
